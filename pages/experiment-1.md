@@ -45,7 +45,7 @@ Data files:
 * [Friedman Test](pages\downloads\data\Experiment1\GAM-TOCHI2023-FriedmanTest-DataOnly.xlsx)
 * [IPA Analysis](pages\downloads\data\Experiment1\GAM-TOCHI2023-IPA-Analysis-DataOnly.xlsx)
 
-Computation files:
+Computation files ([Real-statistics required](https://real-statistics.com/))
 * [Bubblesort](pages\downloads\data\Experiment1\GAM-TOCHI2023-BubbleSort.xlsx)
 * [Correlation Analysis](pages\downloads\data\Experiment1\GAM-TOCHI2023-CorrelationAnalysis.xlsx)
 * [Cosine Similarity](pages\downloads\data\Experiment1\GAM-TOCHI2023-CosineSimilarity.xlsx)
