@@ -31,5 +31,30 @@ For this experiment we used PowerPoint slides. We used a template and then gener
 
 All data can be downloaded in the [following repository](https://github.com/ISSI-DSIC/issi-dsic.github.io/tree/main/pages/downloads/data/Experiment1)
 
+The files that can be found in this repository are the following:
+
+Data files: 
+* [Attraction](pages\downloads\data\Experiment1\GAM-TOCHI2023-Attraction.pzfx)
+* [Cognitive Load](pages\downloads\data\Experiment1\GAM-TOCHI2023-Cognitive_load.pzfx)
+* [Engagement](pages\downloads\data\Experiment1\GAM-TOCHI2023-Engagement.pzfx)
+* [Memorisation](pages\downloads\data\Experiment1\GAM-TOCHI2023-Memorization.pzfx)
+* [Completion Time](pages\downloads\data\Experiment1\GAM-TOCHI2023-CompletionTime.pzfx)
+  
+* [Bubblesort](pages\downloads\data\Experiment1\GAM-TOCHI2023-BubbleSort-DataOnly.xlsx)
+* [Correlation Analysis](pages\downloads\data\Experiment1\GAM-TOCHI2023-CorrelationAnalysis-DataOnly.xlsx)
+* [Cosine Similarity](pages\downloads\data\Experiment1\GAM-TOCHI2023-CosineSimilarity-DataOnly.xlsx)
+* [Friedman Test](pages\downloads\data\Experiment1\GAM-TOCHI2023-FriedmanTest-DataOnly.xlsx)
+* [IPA Analysis](pages\downloads\data\Experiment1\GAM-TOCHI2023-IPA-Analysis-DataOnly.xlsx)
+
+Computation files:
+* [Bubblesort](pages\downloads\data\Experiment1\GAM-TOCHI2023-BubbleSort.xlsx)
+* [Correlation Analysis](pages\downloads\data\Experiment1\GAM-TOCHI2023-CorrelationAnalysis.xlsx)
+* [Cosine Similarity](pages\downloads\data\Experiment1\GAM-TOCHI2023-CosineSimilarity.xlsx)
+* [Friedman Test](pages\downloads\data\Experiment1\GAM-TOCHI2023-FriedmanTest.xlsx)
+* [IPA Analysis](pages\downloads\data\Experiment1\GAM-TOCHI2023-IPA-Analysis.xlsx)
+
+Plotting files:
+* [Histograms](pages\downloads\data\Experiment1\GAM-TOCHI2023-Histograms.pzfx)
+
 
 [back](../)
