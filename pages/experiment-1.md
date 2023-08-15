@@ -6,11 +6,7 @@ layout: default
 <a href="https://anonexperiments.github.io/">Back</a>
 
 
-# First experiment: TOSEM - User Experience with Adaptive User Interfaces: Comparing Performance and Preferences
-
-
-
-
+# Baseline experiment: TOCHI - User Experience with Adaptive User Interfaces: Comparing Performance and Preferences
 
 # Instrumentation
 
@@ -30,16 +26,10 @@ We represented the different graphical adaptive menus using an interactive slide
 
 For this experiment we used PowerPoint slides. We used a template and then generaded more pptx for each participants using a different menu order of use. This template can be downloaded [here](downloads/instrumentation/slides.ppsx).
 
-After the experimental sesion, participants had to fill a questionnaire, which can be downlaoded [here](downloads/instrumentation/QuestionnaireTemplate.xlsm).
 
+# Data and Results
 
-# Data
-
-To-Be-Uploaded
-
-# Results
-
-To-Be-Uploaded
+All data can be downloaded in the [following repository](https://github.com/ISSI-DSIC/issi-dsic.github.io/tree/main/pages/downloads/data/Experiment1)
 
 
 [back](../)
