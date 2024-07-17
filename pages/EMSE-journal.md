@@ -16,8 +16,11 @@
 
 ```
      conda create -n UIrlhf python==3.6.3
+
      conda activate UIrlhf
+     
      cd RL-based-UIAdaptation
+     
      pip install -e .
      ```
 
@@ -48,7 +51,7 @@
 
 **Client Side (Windows only):**
 
-1. Download the Client side app.
+1. Download the Client side app: [Client App](https://drive.google.com/file/d/1KChAqqDx94inN7kgAA_GUafroBOuFO1C/view?usp=drive_link)
 2. Extract the zip.
 3. Execute “proxy-win.exe”:
    - Enter the SERVER’S IP (press enter to continue)
