@@ -14,8 +14,8 @@
 
      
 
-```
-     conda create -n UIrlhf python==3.6.3
+    ```python 
+    conda create -n UIrlhf python==3.6.3
 
      conda activate UIrlhf
      
