@@ -1,8 +1,8 @@
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: ISSI-DSIC repository
+title: RESQUE-LAB ISSI-DSIC repository
 logo: /assets/img/logo.jpg
 favicon: /assets/img/favicon.ico
-description: ISSI research group DSIC (UPV).
+description: RESQUE-LAB is a sub-research group @ISSI research group DSIC (UPV).
 show_downloads: false
