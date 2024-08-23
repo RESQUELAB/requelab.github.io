@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<a href="https://issi-dsic.github.io/">Back</a>
+<a href="https://resquelab.github.io/">Back</a>
 
 
-# Baseline experiment: TOCHI - User Experience with Adaptive User Interfaces: Comparing Performance and Preferences
+# Baseline experiment: JSS - User Experience with Adaptive User Interfaces: Comparing Performance and Preferences
 
 # Instrumentation
 
@@ -33,27 +33,27 @@ All data can be downloaded in the [following repository](https://github.com/ISSI
 The files that can be found in this repository are the following:
 
 Data files: 
-* [Attraction](pages\downloads\data\Experiment1\GAM-TOCHI2023-Attraction.pzfx)
-* [Cognitive Load](pages\downloads\data\Experiment1\GAM-TOCHI2023-Cognitive_load.pzfx)
-* [Engagement](pages\downloads\data\Experiment1\GAM-TOCHI2023-Engagement.pzfx)
-* [Memorisation](pages\downloads\data\Experiment1\GAM-TOCHI2023-Memorization.pzfx)
-* [Completion Time](pages\downloads\data\Experiment1\GAM-TOCHI2023-CompletionTime.pzfx)
+* [Attraction](downloads\data\Experiment1\GAM-TOCHI2023-Attraction.pzfx)
+* [Cognitive Load](downloads\data\Experiment1\GAM-TOCHI2023-Cognitive_load.pzfx)
+* [Engagement](downloads\data\Experiment1\GAM-TOCHI2023-Engagement.pzfx)
+* [Memorisation](downloads\data\Experiment1\GAM-TOCHI2023-Memorization.pzfx)
+* [Completion Time](downloads\data\Experiment1\GAM-TOCHI2023-CompletionTime.pzfx)
   
-* [Bubblesort](pages\downloads\data\Experiment1\GAM-TOCHI2023-BubbleSort-DataOnly.xlsx)
-* [Correlation Analysis](pages\downloads\data\Experiment1\GAM-TOCHI2023-CorrelationAnalysis-DataOnly.xlsx)
-* [Cosine Similarity](pages\downloads\data\Experiment1\GAM-TOCHI2023-CosineSimilarity-DataOnly.xlsx)
-* [Friedman Test](pages\downloads\data\Experiment1\GAM-TOCHI2023-FriedmanTest-DataOnly.xlsx)
-* [IPA Analysis](pages\downloads\data\Experiment1\GAM-TOCHI2023-IPA-Analysis-DataOnly.xlsx)
+* [Bubblesort](downloads\data\Experiment1\GAM-TOCHI2023-BubbleSort-DataOnly.xlsx)
+* [Correlation Analysis](downloads\data\Experiment1\GAM-TOCHI2023-CorrelationAnalysis-DataOnly.xlsx)
+* [Cosine Similarity](downloads\data\Experiment1\GAM-TOCHI2023-CosineSimilarity-DataOnly.xlsx)
+* [Friedman Test](downloads\data\Experiment1\GAM-TOCHI2023-FriedmanTest-DataOnly.xlsx)
+* [IPA Analysis](downloads\data\Experiment1\GAM-TOCHI2023-IPA-Analysis-DataOnly.xlsx)
 
 Computation files ([Real-statistics required](https://real-statistics.com/))
-* [Bubblesort](pages\downloads\data\Experiment1\GAM-TOCHI2023-BubbleSort.xlsx)
-* [Correlation Analysis](pages\downloads\data\Experiment1\GAM-TOCHI2023-CorrelationAnalysis.xlsx)
-* [Cosine Similarity](pages\downloads\data\Experiment1\GAM-TOCHI2023-CosineSimilarity.xlsx)
-* [Friedman Test](pages\downloads\data\Experiment1\GAM-TOCHI2023-FriedmanTest.xlsx)
-* [IPA Analysis](pages\downloads\data\Experiment1\GAM-TOCHI2023-IPA-Analysis.xlsx)
+* [Bubblesort](downloads\data\Experiment1\GAM-TOCHI2023-BubbleSort.xlsx)
+* [Correlation Analysis](downloads\data\Experiment1\GAM-TOCHI2023-CorrelationAnalysis.xlsx)
+* [Cosine Similarity](downloads\data\Experiment1\GAM-TOCHI2023-CosineSimilarity.xlsx)
+* [Friedman Test](downloads\data\Experiment1\GAM-TOCHI2023-FriedmanTest.xlsx)
+* [IPA Analysis](downloads\data\Experiment1\GAM-TOCHI2023-IPA-Analysis.xlsx)
 
 Plotting files:
-* [Histograms](pages\downloads\data\Experiment1\GAM-TOCHI2023-Histograms.pzfx)
+* [Histograms](downloads\data\Experiment1\GAM-TOCHI2023-Histograms.pzfx)
 
 
 [back](../)
