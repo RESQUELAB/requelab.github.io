@@ -26,7 +26,7 @@
 
    - Execute the Server: `python server.py`
 
-3. Extract the zip and execute “1º.exe”
+3. Extract the zip and execute “AdaptiveUI_Server.exe”
 4. Wait till clients connect. (Click on Refresh to see the connected clients)
    - Give the clients your:
 
